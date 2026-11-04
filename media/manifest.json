@@ -478,5 +478,11 @@
    "thumb": "media/thumbs/g_Teams_05_Apply.jpg",
    "alt": "LPD recruitment graphic: 05 Apply"
   }
- ]
+ ],
+ "film": {
+  "id": "Recruitment_Film",
+  "title": "Recruitment film",
+  "src": "media/video/Recruitment_Film.mp4",
+  "poster": "media/video/Recruitment_Film.jpg"
+ }
 }
