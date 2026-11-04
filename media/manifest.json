@@ -18,79 +18,633 @@
    "id": "swat_barricade",
    "src": "media/clips/swat_barricade.mp4",
    "poster": "media/clips/swat_barricade.jpg",
-   "alt": "LPD SWAT operators firing from behind a barricade at range training"
+   "alt": "LPD SWAT operator firing from behind a barricade at range training",
+   "txt": [
+    [
+     0.3492,
+     0.457,
+     0.4368,
+     0.5678,
+     "LORAIN POLICE"
+    ],
+    [
+     0.3195,
+     0.459,
+     0.4279,
+     0.5984,
+     "SWAT"
+    ],
+    [
+     -0.0,
+     0.4937,
+     0.0516,
+     0.5583,
+     "biC*"
+    ],
+    [
+     0.0066,
+     0.4946,
+     0.0549,
+     0.5295,
+     "POLICE"
+    ],
+    [
+     0.3358,
+     0.4817,
+     0.4317,
+     0.5927,
+     "LORAIN POLICE)"
+    ],
+    [
+     0.3101,
+     0.4854,
+     0.4174,
+     0.6257,
+     "SWAT"
+    ],
+    [
+     -0.0018,
+     0.487,
+     0.0563,
+     0.5175,
+     "IN POLICE"
+    ],
+    [
+     -0.0045,
+     0.4991,
+     0.0557,
+     0.5513,
+     "DIC"
+    ],
+    [
+     0.3406,
+     0.4841,
+     0.4333,
+     0.5961,
+     "\"LORAIN POLIGE)"
+    ],
+    [
+     0.3067,
+     0.4878,
+     0.4251,
+     0.6315,
+     "SWAT"
+    ],
+    [
+     -0.0016,
+     0.4599,
+     0.0659,
+     0.4918,
+     "RAIN POLICE"
+    ],
+    [
+     -0.0007,
+     0.4766,
+     0.0632,
+     0.5217,
+     "EDIC"
+    ],
+    [
+     0.3508,
+     0.4639,
+     0.4393,
+     0.5739,
+     "LORAIN POLICE)"
+    ],
+    [
+     0.3186,
+     0.4653,
+     0.4289,
+     0.6064,
+     "SWAT"
+    ],
+    [
+     -0.0016,
+     0.4314,
+     0.0783,
+     0.4672,
+     "LORAIN POLICE"
+    ],
+    [
+     -0.0056,
+     0.4384,
+     0.0793,
+     0.5023,
+     "MEDIC"
+    ],
+    [
+     0.3577,
+     0.4386,
+     0.4459,
+     0.55,
+     "LORAIN POLICE)"
+    ],
+    [
+     0.3273,
+     0.4425,
+     0.4344,
+     0.5818,
+     "SWAT"
+    ],
+    [
+     0.5734,
+     0.6604,
+     0.5938,
+     0.6958,
+     "Pe"
+    ],
+    [
+     -0.0047,
+     0.417,
+     0.0872,
+     0.4985,
+     "MEDIC"
+    ],
+    [
+     0.3641,
+     0.4281,
+     0.4521,
+     0.5396,
+     "LORAIN POLICE"
+    ],
+    [
+     0.3321,
+     0.4302,
+     0.4427,
+     0.5722,
+     "SWAT"
+    ],
+    [
+     0.5797,
+     0.65,
+     0.6016,
+     0.6854,
+     "pll"
+    ]
+   ]
   },
   {
    "id": "swat_prone",
    "src": "media/clips/swat_prone.mp4",
    "poster": "media/clips/swat_prone.jpg",
-   "alt": "Drone view of the SWAT team firing prone on the range"
+   "alt": "SWAT officers firing rifles from the prone position",
+   "txt": [
+    [
+     0.675,
+     0.1812,
+     0.6859,
+     0.1937,
+     "Trl"
+    ],
+    [
+     0.5703,
+     0.5187,
+     0.5984,
+     0.5437,
+     "50"
+    ],
+    [
+     0.5672,
+     0.5521,
+     0.6016,
+     0.5708,
+     "YARDS"
+    ]
+   ]
   },
   {
-   "id": "swat_move",
-   "src": "media/clips/swat_move.mp4",
-   "poster": "media/clips/swat_move.jpg",
-   "alt": "SWAT team moving across the range"
+   "id": "swat_line",
+   "src": "media/clips/swat_line.mp4",
+   "poster": "media/clips/swat_line.jpg",
+   "alt": "SWAT line firing prone on the range",
+   "txt": []
   },
   {
-   "id": "swat_fire",
-   "src": "media/clips/swat_fire.mp4",
-   "poster": "media/clips/swat_fire.jpg",
-   "alt": "SWAT operator firing a rifle on the range"
+   "id": "swat_rifle",
+   "src": "media/clips/swat_rifle.mp4",
+   "poster": "media/clips/swat_rifle.jpg",
+   "alt": "SWAT operator firing a rifle on the range",
+   "txt": [
+    [
+     0.4062,
+     0.5104,
+     0.4281,
+     0.5292,
+     "50"
+    ],
+    [
+     0.4031,
+     0.5354,
+     0.4312,
+     0.55,
+     "YARDS"
+    ],
+    [
+     0.4078,
+     0.5104,
+     0.4297,
+     0.5292,
+     "50"
+    ],
+    [
+     0.4047,
+     0.5333,
+     0.4328,
+     0.55,
+     "YAROS"
+    ],
+    [
+     0.4094,
+     0.5083,
+     0.4297,
+     0.5292,
+     "50"
+    ],
+    [
+     0.4063,
+     0.5312,
+     0.4328,
+     0.5458,
+     "YARDS"
+    ],
+    [
+     0.4078,
+     0.5104,
+     0.4281,
+     0.5271,
+     "50"
+    ],
+    [
+     0.4062,
+     0.5312,
+     0.4297,
+     0.5458,
+     "YARDS"
+    ]
+   ]
   },
   {
-   "id": "swat_cruiser",
-   "src": "media/clips/swat_cruiser.mp4",
-   "poster": "media/clips/swat_cruiser.jpg",
-   "alt": "SWAT officer covering from behind a cruiser in training"
+   "id": "swat_beast",
+   "src": "media/clips/swat_beast.mp4",
+   "poster": "media/clips/swat_beast.jpg",
+   "alt": "LPD SWAT armored truck rolling in",
+   "txt": [
+    [
+     0.0032,
+     0.4362,
+     0.0375,
+     0.468,
+     "CASI"
+    ],
+    [
+     0.8078,
+     0.2729,
+     0.9625,
+     0.3083,
+     "The BEAST"
+    ],
+    [
+     0.1078,
+     0.3562,
+     0.1781,
+     0.3771,
+     "RAINTO D\u00d3"
+    ],
+    [
+     0.2071,
+     0.2465,
+     0.3101,
+     0.327,
+     "\u0422\u0423\u041c\u0418\u041a\u0420\u041e\u0419\u0422\u0421\u0415"
+    ],
+    [
+     0.2016,
+     0.3167,
+     0.2953,
+     0.3896,
+     "S.WLA.L."
+    ],
+    [
+     0.5078,
+     0.4083,
+     0.55,
+     0.4271,
+     "LORAIN)"
+    ],
+    [
+     0.5219,
+     0.4417,
+     0.5437,
+     0.4583,
+     "SWAT"
+    ],
+    [
+     0.6706,
+     0.2933,
+     0.8325,
+     0.341,
+     "The BEAST"
+    ],
+    [
+     0.0375,
+     0.3792,
+     0.1391,
+     0.4,
+     "\u2022 LORAINJ 0d"
+    ],
+    [
+     0.1656,
+     0.3271,
+     0.2641,
+     0.4083,
+     "SILA.L."
+    ],
+    [
+     0.4937,
+     0.4146,
+     0.5391,
+     0.4333,
+     "LORAIN"
+    ],
+    [
+     0.5094,
+     0.45,
+     0.5328,
+     0.4667,
+     "SWAT"
+    ],
+    [
+     0.5125,
+     0.4667,
+     0.5391,
+     0.4833,
+     "POLICE"
+    ],
+    [
+     0.6651,
+     0.2864,
+     0.8365,
+     0.3265,
+     "The BEAST"
+    ],
+    [
+     0.7219,
+     0.5354,
+     0.7328,
+     0.6062,
+     "0385"
+    ]
+   ]
   },
   {
-   "id": "range_pistol",
-   "src": "media/clips/range_pistol.mp4",
-   "poster": "media/clips/range_pistol.jpg",
-   "alt": "Officer firing a pistol at firearms training"
-  },
-  {
-   "id": "range_hit",
-   "src": "media/clips/range_hit.mp4",
-   "poster": "media/clips/range_hit.jpg",
-   "alt": "Officer firing at a target at firearms training"
-  },
-  {
-   "id": "range_shotgun",
-   "src": "media/clips/range_shotgun.mp4",
-   "poster": "media/clips/range_shotgun.jpg",
-   "alt": "Officers firing pistols side by side at patrol range training"
+   "id": "range_dust",
+   "src": "media/clips/range_dust.mp4",
+   "poster": "media/clips/range_dust.jpg",
+   "alt": "Officer firing a pistol at firearms training",
+   "txt": []
   },
   {
    "id": "k9_bite",
    "src": "media/clips/k9_bite.mp4",
    "poster": "media/clips/k9_bite.jpg",
-   "alt": "K-9 apprehension training with a decoy"
+   "alt": "LPD K-9 pulling a bite tug",
+   "txt": [
+    [
+     0.6966,
+     0.5069,
+     0.7518,
+     0.5365,
+     "Lon\u044bN"
+    ],
+    [
+     0.7616,
+     0.5271,
+     0.8433,
+     0.5803,
+     "\u041a\u041e \u0414\u041a\u041d"
+    ],
+    [
+     0.6453,
+     0.5875,
+     0.7,
+     0.6021,
+     "LORAIN"
+    ],
+    [
+     0.6484,
+     0.6,
+     0.7,
+     0.6167,
+     "POLICE"
+    ],
+    [
+     0.7187,
+     0.5979,
+     0.7969,
+     0.6271,
+     "KU DON"
+    ],
+    [
+     0.7521,
+     0.5218,
+     0.7977,
+     0.5448,
+     "POLICE"
+    ],
+    [
+     0.8084,
+     0.503,
+     0.8759,
+     0.5347,
+     "\u041a\u041e 00%"
+    ]
+   ]
   },
   {
-   "id": "k9_team",
-   "src": "media/clips/k9_team.mp4",
-   "poster": "media/clips/k9_team.jpg",
-   "alt": "K-9 handler and officers walking onto the range"
+   "id": "k9_search",
+   "src": "media/clips/k9_search.mp4",
+   "poster": "media/clips/k9_search.jpg",
+   "alt": "K-9 apprehension training with a decoy",
+   "txt": []
   },
   {
-   "id": "marine_run",
-   "src": "media/clips/marine_run.mp4",
-   "poster": "media/clips/marine_run.jpg",
-   "alt": "LPD Marine Patrol boat running with lights on"
+   "id": "k9_drive",
+   "src": "media/clips/k9_drive.mp4",
+   "poster": "media/clips/k9_drive.jpg",
+   "alt": "K-9 handler working his dog with a tug",
+   "txt": []
   },
   {
    "id": "marine_wake",
    "src": "media/clips/marine_wake.mp4",
    "poster": "media/clips/marine_wake.jpg",
-   "alt": "Marine Patrol boat cutting a wake on Lake Erie"
+   "alt": "Marine Patrol boat cutting a wake on Lake Erie",
+   "txt": []
   },
   {
-   "id": "marine_night",
-   "src": "media/clips/marine_night.mp4",
-   "poster": "media/clips/marine_night.jpg",
-   "alt": "Marine Patrol boat at night with blue lights"
+   "id": "night_lights",
+   "src": "media/clips/night_lights.mp4",
+   "poster": "media/clips/night_lights.jpg",
+   "alt": "Lorain cruiser with its lights on at night",
+   "txt": [
+    [
+     0.2484,
+     0.488,
+     0.3795,
+     0.5373,
+     "POLILE"
+    ],
+    [
+     0.2519,
+     0.4535,
+     0.3776,
+     0.4953,
+     "aa2wa"
+    ]
+   ]
+  },
+  {
+   "id": "night_bar",
+   "src": "media/clips/night_bar.mp4",
+   "poster": "media/clips/night_bar.jpg",
+   "alt": "Cruiser light bar flashing at night",
+   "txt": [
+    [
+     0.6203,
+     0.1917,
+     0.7187,
+     0.225,
+     "M\u00fcllter"
+    ]
+   ]
+  },
+  {
+   "id": "driver_close",
+   "src": "media/clips/driver_close.mp4",
+   "poster": "media/clips/driver_close.jpg",
+   "alt": "Cruiser cutting through cones at driver training",
+   "txt": []
+  },
+  {
+   "id": "driver_course",
+   "src": "media/clips/driver_course.mp4",
+   "poster": "media/clips/driver_course.jpg",
+   "alt": "Cruisers on the driver training course",
+   "txt": [
+    [
+     0.5719,
+     0.5812,
+     0.6016,
+     0.5937,
+     "9129"
+    ],
+    [
+     0.7047,
+     0.5312,
+     0.7328,
+     0.5437,
+     "9100"
+    ],
+    [
+     0.2125,
+     0.5083,
+     0.2984,
+     0.5771,
+     "POLIG:"
+    ],
+    [
+     0.5125,
+     0.5938,
+     0.5516,
+     0.6167,
+     "0129"
+    ],
+    [
+     0.6859,
+     0.5271,
+     0.7281,
+     0.5521,
+     "\u00a9100"
+    ],
+    [
+     0.9625,
+     0.5375,
+     0.9969,
+     0.5542,
+     "9K9-1"
+    ],
+    [
+     0.1859,
+     0.5125,
+     0.2859,
+     0.5938,
+     "\u0420\u041eLIE"
+    ],
+    [
+     0.528,
+     0.608,
+     0.572,
+     0.6337,
+     "0129"
+    ],
+    [
+     0.725,
+     0.5354,
+     0.7656,
+     0.5583,
+     "9100"
+    ],
+    [
+     0.2062,
+     0.5104,
+     0.3125,
+     0.5917,
+     "POLITE"
+    ],
+    [
+     0.5765,
+     0.6101,
+     0.6251,
+     0.6378,
+     "0129"
+    ],
+    [
+     0.7891,
+     0.5313,
+     0.8328,
+     0.5563,
+     "\u2022100"
+    ]
+   ]
+  },
+  {
+   "id": "driver_drone",
+   "src": "media/clips/driver_drone.mp4",
+   "poster": "media/clips/driver_drone.jpg",
+   "alt": "Drone view of a cruiser turning through the cones",
+   "txt": [
+    [
+     0.6109,
+     0.631,
+     0.7305,
+     0.6975,
+     "\u0420\u041e\u0426C"
+    ],
+    [
+     0.9625,
+     0.9333,
+     0.9859,
+     0.9771,
+     "Ca"
+    ],
+    [
+     0.4934,
+     0.356,
+     0.5584,
+     0.4063,
+     "aonoa"
+    ]
+   ]
   }
  ],
  "photos": [
@@ -99,161 +653,531 @@
    "src": "media/photos/PL449.jpg",
    "thumb": "media/thumbs/PL449.jpg",
    "alt": "LPD SWAT team at range day",
-   "set": "swat"
+   "set": "swat",
+   "txt": [
+    [
+     0.7241,
+     0.5291,
+     0.7387,
+     0.5378,
+     "5830"
+    ]
+   ]
   },
   {
    "id": "PL479",
    "src": "media/photos/PL479.jpg",
    "thumb": "media/thumbs/PL479.jpg",
    "alt": "SWAT operator gearing up at range day",
-   "set": "swat"
+   "set": "swat",
+   "txt": []
   },
   {
    "id": "PL681",
    "src": "media/photos/PL681.jpg",
    "thumb": "media/thumbs/PL681.jpg",
    "alt": "K-9 apprehension training on a decoy in a bite suit",
-   "set": "k9"
+   "set": "k9",
+   "txt": []
   },
   {
    "id": "PL682",
    "src": "media/photos/PL682.jpg",
    "thumb": "media/thumbs/PL682.jpg",
    "alt": "K-9 officer and his dog",
-   "set": "k9"
+   "set": "k9",
+   "txt": [
+    [
+     0.3807,
+     0.423,
+     0.423,
+     0.4491,
+     "ORAIN"
+    ],
+    [
+     0.3828,
+     0.4991,
+     0.4207,
+     0.525,
+     "POLICS"
+    ]
+   ]
   },
   {
    "id": "PL545",
    "src": "media/photos/PL545.jpg",
    "thumb": "media/thumbs/PL545.jpg",
    "alt": "Officer firing a pistol at range training",
-   "set": "range"
+   "set": "range",
+   "txt": []
   },
   {
    "id": "PL544",
    "src": "media/photos/PL544.jpg",
    "thumb": "media/thumbs/PL544.jpg",
    "alt": "Officer firing a shotgun at range training",
-   "set": "range"
+   "set": "range",
+   "txt": [
+    [
+     0.2114,
+     0.226,
+     0.25,
+     0.2877,
+     "LKER'S"
+    ]
+   ]
   },
   {
    "id": "PL617",
    "src": "media/photos/PL617.jpg",
    "thumb": "media/thumbs/PL617.jpg",
    "alt": "Cruiser cutting through cones at driver training",
-   "set": "driver"
+   "set": "driver",
+   "txt": [
+    [
+     0.3115,
+     0.5218,
+     0.3682,
+     0.5291,
+     "SETINA"
+    ],
+    [
+     0.3312,
+     0.5959,
+     0.3813,
+     0.6221,
+     "17"
+    ],
+    [
+     0.6919,
+     0.489,
+     0.7924,
+     0.5344,
+     "POUCE"
+    ],
+    [
+     0.6427,
+     0.8227,
+     0.7429,
+     0.8605,
+     "LPD"
+    ]
+   ]
   },
   {
    "id": "PL622",
    "src": "media/photos/PL622.jpg",
    "thumb": "media/thumbs/PL622.jpg",
    "alt": "Two cruisers on the driver training course",
-   "set": "driver"
+   "set": "driver",
+   "txt": [
+    [
+     0.2137,
+     0.5425,
+     0.2485,
+     0.5621,
+     "\u202214"
+    ],
+    [
+     0.7776,
+     0.5621,
+     0.8154,
+     0.5839,
+     "\u00a9130"
+    ]
+   ]
   },
   {
    "id": "PL671",
    "src": "media/photos/PL671.jpg",
    "thumb": "media/thumbs/PL671.jpg",
    "alt": "LPD Marine Patrol boat underway",
-   "set": "marine"
+   "set": "marine",
+   "txt": [
+    [
+     0.1512,
+     0.488,
+     0.1759,
+     0.4989,
+     "ALIFESUING"
+    ],
+    [
+     0.423,
+     0.135,
+     0.4622,
+     0.1482,
+     "GARMIN"
+    ],
+    [
+     0.4724,
+     0.4553,
+     0.6076,
+     0.512,
+     "POACE"
+    ],
+    [
+     0.2159,
+     0.6033,
+     0.293,
+     0.6552,
+     "PATROL"
+    ]
+   ]
   },
   {
    "id": "PL107",
    "src": "media/photos/PL107.jpg",
    "thumb": "media/thumbs/PL107.jpg",
    "alt": "LPD Marine Patrol boat at dusk",
-   "set": "marine"
+   "set": "marine",
+   "txt": [
+    [
+     0.5334,
+     0.2571,
+     0.5799,
+     0.2876,
+     "LORAIN"
+    ],
+    [
+     0.5412,
+     0.4034,
+     0.5895,
+     0.4259,
+     "27 VIGILANT"
+    ],
+    [
+     0.3561,
+     0.4423,
+     0.6047,
+     0.573,
+     "POLICEI"
+    ],
+    [
+     0.6816,
+     0.6118,
+     0.7225,
+     0.6322,
+     "LORAIN"
+    ],
+    [
+     0.6845,
+     0.6293,
+     0.7239,
+     0.6495,
+     "MARINE"
+    ],
+    [
+     0.6875,
+     0.6514,
+     0.7122,
+     0.6645,
+     "PATRI"
+    ],
+    [
+     0.7951,
+     0.6231,
+     0.8227,
+     0.6362,
+     "EIRSE-AID"
+    ],
+    [
+     0.1583,
+     0.7759,
+     0.8103,
+     0.999,
+     "MARINE PATROT"
+    ]
+   ]
   },
   {
    "id": "PL533",
    "src": "media/photos/PL533.jpg",
    "thumb": "media/thumbs/PL533.jpg",
    "alt": "Dive Team diver entering the water",
-   "set": "dive"
+   "set": "dive",
+   "txt": []
   },
   {
    "id": "PL530",
    "src": "media/photos/PL530.jpg",
    "thumb": "media/thumbs/PL530.jpg",
    "alt": "Dive Team diver at the surface",
-   "set": "dive"
+   "set": "dive",
+   "txt": []
   },
   {
    "id": "PL673",
    "src": "media/photos/PL673.jpg",
    "thumb": "media/thumbs/PL673.jpg",
    "alt": "Officer flying an LPD drone",
-   "set": "dfr"
+   "set": "dfr",
+   "txt": [
+    [
+     0.4795,
+     0.2257,
+     0.5628,
+     0.2676,
+     "LORAIN"
+    ],
+    [
+     0.4807,
+     0.2606,
+     0.5644,
+     0.3005,
+     "POLICE"
+    ],
+    [
+     0.3357,
+     0.3757,
+     0.3809,
+     0.3938,
+     "WHELEN"
+    ],
+    [
+     0.3827,
+     0.4612,
+     0.417,
+     0.4827,
+     "LORAIN"
+    ],
+    [
+     0.3852,
+     0.6022,
+     0.4346,
+     0.6239,
+     "Halsey"
+    ]
+   ]
+  },
+  {
+   "id": "PL067",
+   "src": "media/photos/PL067.jpg",
+   "thumb": "media/thumbs/PL067.jpg",
+   "alt": "Officer setting up an LPD drone",
+   "set": "dfr",
+   "txt": [
+    [
+     0.609,
+     0.1046,
+     0.6265,
+     0.1155,
+     "4403"
+    ],
+    [
+     0.3668,
+     0.3971,
+     0.4471,
+     0.4274,
+     "\u0413\u0423X2="
+    ],
+    [
+     0.939,
+     0.0349,
+     0.9637,
+     0.0458,
+     "LORAIN"
+    ],
+    [
+     0.9142,
+     0.2135,
+     0.9448,
+     0.2309,
+     "POLICE"
+    ]
+   ]
   },
   {
    "id": "PL672",
    "src": "media/photos/PL672.jpg",
    "thumb": "media/thumbs/PL672.jpg",
    "alt": "Officers at the drone controller",
-   "set": "dfr"
+   "set": "dfr",
+   "txt": [
+    [
+     0.5042,
+     0.4724,
+     0.5278,
+     0.5198,
+     "MUUNS"
+    ],
+    [
+     0.4408,
+     0.5462,
+     0.5237,
+     0.6065,
+     "Ofc. G. Johi"
+    ],
+    [
+     0.5796,
+     0.197,
+     0.6704,
+     0.2327,
+     "LORAIN"
+    ],
+    [
+     0.5781,
+     0.2291,
+     0.6691,
+     0.2655,
+     "POLICE"
+    ]
+   ]
   },
   {
    "id": "PL038",
    "src": "media/photos/PL038.jpg",
    "thumb": "media/thumbs/PL038.jpg",
    "alt": "Lorain cruiser on a night shift",
-   "set": "night"
+   "set": "night",
+   "txt": [
+    [
+     0.8547,
+     0.5534,
+     0.8852,
+     0.5904,
+     "22"
+    ]
+   ]
   },
   {
    "id": "PL640",
    "src": "media/photos/PL640.jpg",
    "thumb": "media/thumbs/PL640.jpg",
    "alt": "Officer working a night shift",
-   "set": "night"
+   "set": "night",
+   "txt": [
+    [
+     0.3931,
+     0.4092,
+     0.4694,
+     0.425,
+     "D.R. Urbin"
+    ],
+    [
+     0.5599,
+     0.407,
+     0.5991,
+     0.4157,
+     "4096"
+    ]
+   ]
   },
   {
    "id": "PL643",
    "src": "media/photos/PL643.jpg",
    "thumb": "media/thumbs/PL643.jpg",
    "alt": "K-9 officer on a night street",
-   "set": "night"
+   "set": "night",
+   "txt": [
+    [
+     0.2984,
+     0.4009,
+     0.4903,
+     0.4378,
+     "POLICE K9"
+    ]
+   ]
   },
   {
    "id": "PL547",
    "src": "media/photos/PL547.jpg",
    "thumb": "media/thumbs/PL547.jpg",
-   "alt": "Ice cream with the cops",
-   "set": "community"
-  },
-  {
-   "id": "PL112",
-   "src": "media/photos/PL112.jpg",
-   "thumb": "media/thumbs/PL112.jpg",
-   "alt": "Officers serving hot cocoa in the snow",
-   "set": "community"
+   "alt": "Ice cream with LPD officers",
+   "set": "community",
+   "txt": []
   },
   {
    "id": "PL470",
    "src": "media/photos/PL470.jpg",
    "thumb": "media/thumbs/PL470.jpg",
    "alt": "LPD K-9 at a community event",
-   "set": "community"
+   "set": "community",
+   "txt": []
   },
   {
    "id": "PL461",
    "src": "media/photos/PL461.jpg",
    "thumb": "media/thumbs/PL461.jpg",
    "alt": "LPD cocoa trailer at a community event",
-   "set": "community"
+   "set": "community",
+   "txt": [
+    [
+     0.5648,
+     0.3971,
+     0.6131,
+     0.4256,
+     "TITANS"
+    ],
+    [
+     0.1978,
+     0.6177,
+     0.265,
+     0.6352,
+     "ORA"
+    ],
+    [
+     0.0,
+     0.6119,
+     0.3103,
+     0.7049,
+     "POLCE"
+    ],
+    [
+     0.9673,
+     0.811,
+     0.9982,
+     0.8227,
+     "DNTE"
+    ]
+   ]
   },
   {
    "id": "PL582",
    "src": "media/photos/PL582.jpg",
    "thumb": "media/thumbs/PL582.jpg",
    "alt": "Row of new Lorain police cruisers",
-   "set": "info"
+   "set": "info",
+   "txt": []
+  },
+  {
+   "id": "PL513",
+   "src": "media/photos/PL513.jpg",
+   "thumb": "media/thumbs/PL513.jpg",
+   "alt": "Lorain cruisers on a night shift",
+   "set": "mag",
+   "txt": [
+    [
+     0.1122,
+     0.5649,
+     0.1654,
+     0.5848,
+     "120"
+    ]
+   ]
+  },
+  {
+   "id": "PL505",
+   "src": "media/photos/PL505.jpg",
+   "thumb": "media/thumbs/PL505.jpg",
+   "alt": "LPD officers saluting at the U.S. Capitol in Police Week",
+   "set": "mag",
+   "txt": []
+  },
+  {
+   "id": "PL462",
+   "src": "media/photos/PL462.jpg",
+   "thumb": "media/thumbs/PL462.jpg",
+   "alt": "Hot cocoa from the LPD cocoa trailer",
+   "set": "mag",
+   "txt": []
   },
   {
    "id": "ST_street",
    "src": "media/photos/ST_street.jpg",
    "thumb": "media/thumbs/ST_street.jpg",
    "alt": "Safety Town street set with small houses and a traffic light",
-   "set": "info"
+   "set": "info",
+   "txt": []
   }
  ],
  "recruit": [
@@ -261,115 +1185,373 @@
    "id": "PL520",
    "src": "media/photos/PL520.jpg",
    "thumb": "media/thumbs/PL520.jpg",
-   "alt": "Smiling LPD officer at the wheel of a cruiser"
+   "alt": "Smiling LPD officer at the wheel of a cruiser",
+   "txt": [
+    [
+     0.8439,
+     0.1904,
+     0.8748,
+     0.1991,
+     "WHET"
+    ]
+   ]
   },
   {
    "id": "PL552",
    "src": "media/photos/PL552.jpg",
    "thumb": "media/thumbs/PL552.jpg",
-   "alt": "A new officer signs the oath of office"
+   "alt": "A new officer signs the oath of office",
+   "txt": [
+    [
+     0.5036,
+     0.5425,
+     0.6902,
+     0.6902,
+     "Sath of Bttick"
+    ]
+   ]
   },
   {
    "id": "PL472",
    "src": "media/photos/PL472.jpg",
    "thumb": "media/thumbs/PL472.jpg",
-   "alt": "Officer beside a Lorain cruiser"
+   "alt": "Officer beside a Lorain cruiser",
+   "txt": []
   },
   {
    "id": "PL519",
    "src": "media/photos/PL519.jpg",
    "thumb": "media/thumbs/PL519.jpg",
-   "alt": "Young officers walking forward"
+   "alt": "Young officers walking forward",
+   "txt": []
   },
   {
    "id": "PL499",
    "src": "media/photos/PL499.jpg",
    "thumb": "media/thumbs/PL499.jpg",
-   "alt": "Honor guard officer"
+   "alt": "Honor guard officer",
+   "txt": [
+    [
+     0.4483,
+     0.5131,
+     0.4737,
+     0.5218,
+     "OTHO E"
+    ],
+    [
+     0.4281,
+     0.4902,
+     0.4876,
+     0.5199,
+     "30\u041f00"
+    ],
+    [
+     0.411,
+     0.4465,
+     0.4793,
+     0.4715,
+     "ORAIN"
+    ],
+    [
+     0.3916,
+     0.4246,
+     0.4752,
+     0.4584,
+     "HONOR GUARD"
+    ]
+   ]
   },
   {
    "id": "PL156",
    "src": "media/photos/PL156.jpg",
    "thumb": "media/thumbs/PL156.jpg",
-   "alt": "Lorain cruiser in front of the steel mill"
+   "alt": "Lorain cruiser in front of the steel mill",
+   "txt": [
+    [
+     0.2805,
+     0.6667,
+     0.3169,
+     0.7059,
+     "22"
+    ]
+   ]
   },
   {
    "id": "PL640",
    "src": "media/photos/PL640.jpg",
    "thumb": "media/thumbs/PL640.jpg",
-   "alt": "Officer working a night shift"
+   "alt": "Officer working a night shift",
+   "txt": [
+    [
+     0.3931,
+     0.4092,
+     0.4694,
+     0.425,
+     "D.R. Urbin"
+    ],
+    [
+     0.5599,
+     0.407,
+     0.5991,
+     0.4157,
+     "4096"
+    ]
+   ]
   },
   {
    "id": "PL492",
    "src": "media/photos/PL492.jpg",
    "thumb": "media/thumbs/PL492.jpg",
-   "alt": "Officer on scene with colleagues"
+   "alt": "Officer on scene with colleagues",
+   "txt": [
+    [
+     0.1341,
+     0.3048,
+     0.3668,
+     0.3725,
+     "HPOLICE"
+    ]
+   ]
   },
   {
    "id": "PL523",
    "src": "media/photos/PL523.jpg",
    "thumb": "media/thumbs/PL523.jpg",
-   "alt": "Two officers walking toward the camera"
+   "alt": "Two officers walking toward the camera",
+   "txt": [
+    [
+     0.0625,
+     0.4967,
+     0.1003,
+     0.5185,
+     "ROAD"
+    ],
+    [
+     0.0567,
+     0.5207,
+     0.1061,
+     0.5425,
+     "CLOSED"
+    ],
+    [
+     0.8516,
+     0.5853,
+     0.9987,
+     0.6674,
+     "POLIC"
+    ]
+   ]
   },
   {
    "id": "PL002",
    "src": "media/photos/PL002.jpg",
    "thumb": "media/thumbs/PL002.jpg",
-   "alt": "Two officers laughing on a night shift"
+   "alt": "Two officers laughing on a night shift",
+   "txt": [
+    [
+     -0.0049,
+     0.2192,
+     0.0685,
+     0.2861,
+     "NOINLS BAS"
+    ]
+   ]
   },
   {
    "id": "PL516",
    "src": "media/photos/PL516.jpg",
    "thumb": "media/thumbs/PL516.jpg",
-   "alt": "Officer by her cruiser"
+   "alt": "Officer by her cruiser",
+   "txt": []
   },
   {
    "id": "PL528",
    "src": "media/photos/PL528.jpg",
    "thumb": "media/thumbs/PL528.jpg",
-   "alt": "Officer reading at a training table"
+   "alt": "Officer reading at a training table",
+   "txt": [
+    [
+     0.5817,
+     0.3576,
+     0.7015,
+     0.3924,
+     "LORAIN"
+    ],
+    [
+     0.573,
+     0.3779,
+     0.6993,
+     0.4157,
+     "POLICE"
+    ],
+    [
+     0.4176,
+     0.6182,
+     0.601,
+     0.6741,
+     "POLICE"
+    ]
+   ]
   },
   {
    "id": "PL616",
    "src": "media/photos/PL616.jpg",
    "thumb": "media/thumbs/PL616.jpg",
-   "alt": "LPD cones on the training course"
+   "alt": "LPD cones on the training course",
+   "txt": [
+    [
+     0.4563,
+     0.4708,
+     0.575,
+     0.5208,
+     "LPD"
+    ]
+   ]
   },
   {
    "id": "PL493",
    "src": "media/photos/PL493.jpg",
    "thumb": "media/thumbs/PL493.jpg",
-   "alt": "Officer in dress uniform"
+   "alt": "Officer in dress uniform",
+   "txt": [
+    [
+     0.5118,
+     0.5102,
+     0.5318,
+     0.5174,
+     "\u041e\u0406\u041d\u041e"
+    ],
+    [
+     0.4878,
+     0.4821,
+     0.5509,
+     0.5099,
+     "\u041f\u041e\u041f\u041e\u0421"
+    ],
+    [
+     0.4535,
+     0.4208,
+     0.5276,
+     0.4553,
+     "LORA"
+    ]
+   ]
   },
   {
    "id": "PL287",
    "src": "media/photos/PL287.jpg",
    "thumb": "media/thumbs/PL287.jpg",
-   "alt": "K-9 in training"
+   "alt": "K-9 in training",
+   "txt": [
+    [
+     0.6875,
+     0.4503,
+     0.9127,
+     0.5536,
+     "R\u041eA\u0421\u0415 \u041d\u0423 FLE\u0422CH:"
+    ]
+   ]
   },
   {
    "id": "PL449",
    "src": "media/photos/PL449.jpg",
    "thumb": "media/thumbs/PL449.jpg",
-   "alt": "LPD SWAT team at range day"
+   "alt": "LPD SWAT team at range day",
+   "txt": [
+    [
+     0.7241,
+     0.5291,
+     0.7387,
+     0.5378,
+     "5830"
+    ]
+   ]
   },
   {
    "id": "PL107",
    "src": "media/photos/PL107.jpg",
    "thumb": "media/thumbs/PL107.jpg",
-   "alt": "LPD Marine Patrol boat at dusk"
+   "alt": "LPD Marine Patrol boat at dusk",
+   "txt": [
+    [
+     0.5334,
+     0.2571,
+     0.5799,
+     0.2876,
+     "LORAIN"
+    ],
+    [
+     0.5412,
+     0.4034,
+     0.5895,
+     0.4259,
+     "27 VIGILANT"
+    ],
+    [
+     0.3561,
+     0.4423,
+     0.6047,
+     0.573,
+     "POLICEI"
+    ],
+    [
+     0.6816,
+     0.6118,
+     0.7225,
+     0.6322,
+     "LORAIN"
+    ],
+    [
+     0.6845,
+     0.6293,
+     0.7239,
+     0.6495,
+     "MARINE"
+    ],
+    [
+     0.6875,
+     0.6514,
+     0.7122,
+     0.6645,
+     "PATRI"
+    ],
+    [
+     0.7951,
+     0.6231,
+     0.8227,
+     0.6362,
+     "EIRSE-AID"
+    ],
+    [
+     0.1583,
+     0.7759,
+     0.8103,
+     0.999,
+     "MARINE PATROT"
+    ]
+   ]
   },
   {
    "id": "PL535",
    "src": "media/photos/PL535.jpg",
    "thumb": "media/thumbs/PL535.jpg",
-   "alt": "LPD Dive Team diver at the surface"
+   "alt": "LPD Dive Team diver at the surface",
+   "txt": []
   },
   {
    "id": "PL643",
    "src": "media/photos/PL643.jpg",
    "thumb": "media/thumbs/PL643.jpg",
-   "alt": "K-9 officer on a night street"
+   "alt": "K-9 officer on a night street",
+   "txt": [
+    [
+     0.2984,
+     0.4009,
+     0.4903,
+     0.4378,
+     "POLICE K9"
+    ]
+   ]
   }
  ],
  "graphics": [
