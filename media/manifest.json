@@ -1,0 +1,482 @@
+{
+ "loops": [
+  {
+   "id": "Recruitment_Loop",
+   "title": "Recruitment loop",
+   "src": "media/video/Recruitment_Loop.mp4",
+   "poster": "media/video/Recruitment_Loop.jpg"
+  },
+  {
+   "id": "Community_Loop",
+   "title": "Community loop",
+   "src": "media/video/Community_Loop.mp4",
+   "poster": "media/video/Community_Loop.jpg"
+  }
+ ],
+ "clips": [
+  {
+   "id": "swat_barricade",
+   "src": "media/clips/swat_barricade.mp4",
+   "poster": "media/clips/swat_barricade.jpg",
+   "alt": "LPD SWAT operators firing from behind a barricade at range training"
+  },
+  {
+   "id": "swat_prone",
+   "src": "media/clips/swat_prone.mp4",
+   "poster": "media/clips/swat_prone.jpg",
+   "alt": "Drone view of the SWAT team firing prone on the range"
+  },
+  {
+   "id": "swat_move",
+   "src": "media/clips/swat_move.mp4",
+   "poster": "media/clips/swat_move.jpg",
+   "alt": "SWAT team moving across the range"
+  },
+  {
+   "id": "swat_fire",
+   "src": "media/clips/swat_fire.mp4",
+   "poster": "media/clips/swat_fire.jpg",
+   "alt": "SWAT operator firing a rifle on the range"
+  },
+  {
+   "id": "swat_cruiser",
+   "src": "media/clips/swat_cruiser.mp4",
+   "poster": "media/clips/swat_cruiser.jpg",
+   "alt": "SWAT officer covering from behind a cruiser in training"
+  },
+  {
+   "id": "range_pistol",
+   "src": "media/clips/range_pistol.mp4",
+   "poster": "media/clips/range_pistol.jpg",
+   "alt": "Officer firing a pistol at firearms training"
+  },
+  {
+   "id": "range_hit",
+   "src": "media/clips/range_hit.mp4",
+   "poster": "media/clips/range_hit.jpg",
+   "alt": "Officer firing at a target at firearms training"
+  },
+  {
+   "id": "range_shotgun",
+   "src": "media/clips/range_shotgun.mp4",
+   "poster": "media/clips/range_shotgun.jpg",
+   "alt": "Officers firing pistols side by side at patrol range training"
+  },
+  {
+   "id": "k9_bite",
+   "src": "media/clips/k9_bite.mp4",
+   "poster": "media/clips/k9_bite.jpg",
+   "alt": "K-9 apprehension training with a decoy"
+  },
+  {
+   "id": "k9_team",
+   "src": "media/clips/k9_team.mp4",
+   "poster": "media/clips/k9_team.jpg",
+   "alt": "K-9 handler and officers walking onto the range"
+  },
+  {
+   "id": "marine_run",
+   "src": "media/clips/marine_run.mp4",
+   "poster": "media/clips/marine_run.jpg",
+   "alt": "LPD Marine Patrol boat running with lights on"
+  },
+  {
+   "id": "marine_wake",
+   "src": "media/clips/marine_wake.mp4",
+   "poster": "media/clips/marine_wake.jpg",
+   "alt": "Marine Patrol boat cutting a wake on Lake Erie"
+  },
+  {
+   "id": "marine_night",
+   "src": "media/clips/marine_night.mp4",
+   "poster": "media/clips/marine_night.jpg",
+   "alt": "Marine Patrol boat at night with blue lights"
+  }
+ ],
+ "photos": [
+  {
+   "id": "PL449",
+   "src": "media/photos/PL449.jpg",
+   "thumb": "media/thumbs/PL449.jpg",
+   "alt": "LPD SWAT team at range day",
+   "set": "swat"
+  },
+  {
+   "id": "PL479",
+   "src": "media/photos/PL479.jpg",
+   "thumb": "media/thumbs/PL479.jpg",
+   "alt": "SWAT operator gearing up at range day",
+   "set": "swat"
+  },
+  {
+   "id": "PL681",
+   "src": "media/photos/PL681.jpg",
+   "thumb": "media/thumbs/PL681.jpg",
+   "alt": "K-9 apprehension training on a decoy in a bite suit",
+   "set": "k9"
+  },
+  {
+   "id": "PL682",
+   "src": "media/photos/PL682.jpg",
+   "thumb": "media/thumbs/PL682.jpg",
+   "alt": "K-9 officer and his dog",
+   "set": "k9"
+  },
+  {
+   "id": "PL545",
+   "src": "media/photos/PL545.jpg",
+   "thumb": "media/thumbs/PL545.jpg",
+   "alt": "Officer firing a pistol at range training",
+   "set": "range"
+  },
+  {
+   "id": "PL544",
+   "src": "media/photos/PL544.jpg",
+   "thumb": "media/thumbs/PL544.jpg",
+   "alt": "Officer firing a shotgun at range training",
+   "set": "range"
+  },
+  {
+   "id": "PL617",
+   "src": "media/photos/PL617.jpg",
+   "thumb": "media/thumbs/PL617.jpg",
+   "alt": "Cruiser cutting through cones at driver training",
+   "set": "driver"
+  },
+  {
+   "id": "PL622",
+   "src": "media/photos/PL622.jpg",
+   "thumb": "media/thumbs/PL622.jpg",
+   "alt": "Two cruisers on the driver training course",
+   "set": "driver"
+  },
+  {
+   "id": "PL671",
+   "src": "media/photos/PL671.jpg",
+   "thumb": "media/thumbs/PL671.jpg",
+   "alt": "LPD Marine Patrol boat underway",
+   "set": "marine"
+  },
+  {
+   "id": "PL107",
+   "src": "media/photos/PL107.jpg",
+   "thumb": "media/thumbs/PL107.jpg",
+   "alt": "LPD Marine Patrol boat at dusk",
+   "set": "marine"
+  },
+  {
+   "id": "PL533",
+   "src": "media/photos/PL533.jpg",
+   "thumb": "media/thumbs/PL533.jpg",
+   "alt": "Dive Team diver entering the water",
+   "set": "dive"
+  },
+  {
+   "id": "PL530",
+   "src": "media/photos/PL530.jpg",
+   "thumb": "media/thumbs/PL530.jpg",
+   "alt": "Dive Team diver at the surface",
+   "set": "dive"
+  },
+  {
+   "id": "PL673",
+   "src": "media/photos/PL673.jpg",
+   "thumb": "media/thumbs/PL673.jpg",
+   "alt": "Officer flying an LPD drone",
+   "set": "dfr"
+  },
+  {
+   "id": "PL672",
+   "src": "media/photos/PL672.jpg",
+   "thumb": "media/thumbs/PL672.jpg",
+   "alt": "Officers at the drone controller",
+   "set": "dfr"
+  },
+  {
+   "id": "PL038",
+   "src": "media/photos/PL038.jpg",
+   "thumb": "media/thumbs/PL038.jpg",
+   "alt": "Lorain cruiser on a night shift",
+   "set": "night"
+  },
+  {
+   "id": "PL640",
+   "src": "media/photos/PL640.jpg",
+   "thumb": "media/thumbs/PL640.jpg",
+   "alt": "Officer working a night shift",
+   "set": "night"
+  },
+  {
+   "id": "PL643",
+   "src": "media/photos/PL643.jpg",
+   "thumb": "media/thumbs/PL643.jpg",
+   "alt": "K-9 officer on a night street",
+   "set": "night"
+  },
+  {
+   "id": "PL547",
+   "src": "media/photos/PL547.jpg",
+   "thumb": "media/thumbs/PL547.jpg",
+   "alt": "Ice cream with the cops",
+   "set": "community"
+  },
+  {
+   "id": "PL112",
+   "src": "media/photos/PL112.jpg",
+   "thumb": "media/thumbs/PL112.jpg",
+   "alt": "Officers serving hot cocoa in the snow",
+   "set": "community"
+  },
+  {
+   "id": "PL470",
+   "src": "media/photos/PL470.jpg",
+   "thumb": "media/thumbs/PL470.jpg",
+   "alt": "LPD K-9 at a community event",
+   "set": "community"
+  },
+  {
+   "id": "PL461",
+   "src": "media/photos/PL461.jpg",
+   "thumb": "media/thumbs/PL461.jpg",
+   "alt": "LPD cocoa trailer at a community event",
+   "set": "community"
+  },
+  {
+   "id": "PL582",
+   "src": "media/photos/PL582.jpg",
+   "thumb": "media/thumbs/PL582.jpg",
+   "alt": "Row of new Lorain police cruisers",
+   "set": "info"
+  },
+  {
+   "id": "ST_street",
+   "src": "media/photos/ST_street.jpg",
+   "thumb": "media/thumbs/ST_street.jpg",
+   "alt": "Safety Town street set with small houses and a traffic light",
+   "set": "info"
+  }
+ ],
+ "recruit": [
+  {
+   "id": "PL520",
+   "src": "media/photos/PL520.jpg",
+   "thumb": "media/thumbs/PL520.jpg",
+   "alt": "Smiling LPD officer at the wheel of a cruiser"
+  },
+  {
+   "id": "PL552",
+   "src": "media/photos/PL552.jpg",
+   "thumb": "media/thumbs/PL552.jpg",
+   "alt": "A new officer signs the oath of office"
+  },
+  {
+   "id": "PL472",
+   "src": "media/photos/PL472.jpg",
+   "thumb": "media/thumbs/PL472.jpg",
+   "alt": "Officer beside a Lorain cruiser"
+  },
+  {
+   "id": "PL519",
+   "src": "media/photos/PL519.jpg",
+   "thumb": "media/thumbs/PL519.jpg",
+   "alt": "Young officers walking forward"
+  },
+  {
+   "id": "PL499",
+   "src": "media/photos/PL499.jpg",
+   "thumb": "media/thumbs/PL499.jpg",
+   "alt": "Honor guard officer"
+  },
+  {
+   "id": "PL156",
+   "src": "media/photos/PL156.jpg",
+   "thumb": "media/thumbs/PL156.jpg",
+   "alt": "Lorain cruiser in front of the steel mill"
+  },
+  {
+   "id": "PL640",
+   "src": "media/photos/PL640.jpg",
+   "thumb": "media/thumbs/PL640.jpg",
+   "alt": "Officer working a night shift"
+  },
+  {
+   "id": "PL492",
+   "src": "media/photos/PL492.jpg",
+   "thumb": "media/thumbs/PL492.jpg",
+   "alt": "Officer on scene with colleagues"
+  },
+  {
+   "id": "PL523",
+   "src": "media/photos/PL523.jpg",
+   "thumb": "media/thumbs/PL523.jpg",
+   "alt": "Two officers walking toward the camera"
+  },
+  {
+   "id": "PL002",
+   "src": "media/photos/PL002.jpg",
+   "thumb": "media/thumbs/PL002.jpg",
+   "alt": "Two officers laughing on a night shift"
+  },
+  {
+   "id": "PL516",
+   "src": "media/photos/PL516.jpg",
+   "thumb": "media/thumbs/PL516.jpg",
+   "alt": "Officer by her cruiser"
+  },
+  {
+   "id": "PL528",
+   "src": "media/photos/PL528.jpg",
+   "thumb": "media/thumbs/PL528.jpg",
+   "alt": "Officer reading at a training table"
+  },
+  {
+   "id": "PL616",
+   "src": "media/photos/PL616.jpg",
+   "thumb": "media/thumbs/PL616.jpg",
+   "alt": "LPD cones on the training course"
+  },
+  {
+   "id": "PL493",
+   "src": "media/photos/PL493.jpg",
+   "thumb": "media/thumbs/PL493.jpg",
+   "alt": "Officer in dress uniform"
+  },
+  {
+   "id": "PL287",
+   "src": "media/photos/PL287.jpg",
+   "thumb": "media/thumbs/PL287.jpg",
+   "alt": "K-9 in training"
+  },
+  {
+   "id": "PL449",
+   "src": "media/photos/PL449.jpg",
+   "thumb": "media/thumbs/PL449.jpg",
+   "alt": "LPD SWAT team at range day"
+  },
+  {
+   "id": "PL107",
+   "src": "media/photos/PL107.jpg",
+   "thumb": "media/thumbs/PL107.jpg",
+   "alt": "LPD Marine Patrol boat at dusk"
+  },
+  {
+   "id": "PL535",
+   "src": "media/photos/PL535.jpg",
+   "thumb": "media/thumbs/PL535.jpg",
+   "alt": "LPD Dive Team diver at the surface"
+  },
+  {
+   "id": "PL643",
+   "src": "media/photos/PL643.jpg",
+   "thumb": "media/thumbs/PL643.jpg",
+   "alt": "K-9 officer on a night street"
+  }
+ ],
+ "graphics": [
+  {
+   "src": "media/graphics/00_Banner_Pay.jpg",
+   "thumb": "media/thumbs/g_00_Banner_Pay.jpg",
+   "alt": "LPD recruitment graphic: Banner Pay"
+  },
+  {
+   "src": "media/graphics/01_Banner_Path.jpg",
+   "thumb": "media/thumbs/g_01_Banner_Path.jpg",
+   "alt": "LPD recruitment graphic: Banner Path"
+  },
+  {
+   "src": "media/graphics/02_Banner_Veterans.jpg",
+   "thumb": "media/thumbs/g_02_Banner_Veterans.jpg",
+   "alt": "LPD recruitment graphic: Banner Veterans"
+  },
+  {
+   "src": "media/graphics/Path_01_Cover.jpg",
+   "thumb": "media/thumbs/g_Path_01_Cover.jpg",
+   "alt": "LPD recruitment graphic: 01 Cover"
+  },
+  {
+   "src": "media/graphics/Path_02_Who_Can_Apply.jpg",
+   "thumb": "media/thumbs/g_Path_02_Who_Can_Apply.jpg",
+   "alt": "LPD recruitment graphic: 02 Who Can Apply"
+  },
+  {
+   "src": "media/graphics/Path_03_Four_Steps.jpg",
+   "thumb": "media/thumbs/g_Path_03_Four_Steps.jpg",
+   "alt": "LPD recruitment graphic: 03 Four Steps"
+  },
+  {
+   "src": "media/graphics/Path_04_Written_Exam.jpg",
+   "thumb": "media/thumbs/g_Path_04_Written_Exam.jpg",
+   "alt": "LPD recruitment graphic: 04 Written Exam"
+  },
+  {
+   "src": "media/graphics/Path_05_Extra_Credit.jpg",
+   "thumb": "media/thumbs/g_Path_05_Extra_Credit.jpg",
+   "alt": "LPD recruitment graphic: 05 Extra Credit"
+  },
+  {
+   "src": "media/graphics/Path_06_No_Fee.jpg",
+   "thumb": "media/thumbs/g_Path_06_No_Fee.jpg",
+   "alt": "LPD recruitment graphic: 06 No Fee"
+  },
+  {
+   "src": "media/graphics/Path_07_Apply.jpg",
+   "thumb": "media/thumbs/g_Path_07_Apply.jpg",
+   "alt": "LPD recruitment graphic: 07 Apply"
+  },
+  {
+   "src": "media/graphics/Pay_01_Cover.jpg",
+   "thumb": "media/thumbs/g_Pay_01_Cover.jpg",
+   "alt": "LPD recruitment graphic: 01 Cover"
+  },
+  {
+   "src": "media/graphics/Pay_02_Starting_Pay.jpg",
+   "thumb": "media/thumbs/g_Pay_02_Starting_Pay.jpg",
+   "alt": "LPD recruitment graphic: 02 Starting Pay"
+  },
+  {
+   "src": "media/graphics/Pay_03_Three_Years.jpg",
+   "thumb": "media/thumbs/g_Pay_03_Three_Years.jpg",
+   "alt": "LPD recruitment graphic: 03 Three Years"
+  },
+  {
+   "src": "media/graphics/Pay_04_Benefits.jpg",
+   "thumb": "media/thumbs/g_Pay_04_Benefits.jpg",
+   "alt": "LPD recruitment graphic: 04 Benefits"
+  },
+  {
+   "src": "media/graphics/Pay_05_Laterals.jpg",
+   "thumb": "media/thumbs/g_Pay_05_Laterals.jpg",
+   "alt": "LPD recruitment graphic: 05 Laterals"
+  },
+  {
+   "src": "media/graphics/Pay_06_Apply.jpg",
+   "thumb": "media/thumbs/g_Pay_06_Apply.jpg",
+   "alt": "LPD recruitment graphic: 06 Apply"
+  },
+  {
+   "src": "media/graphics/Teams_01_Cover.jpg",
+   "thumb": "media/thumbs/g_Teams_01_Cover.jpg",
+   "alt": "LPD recruitment graphic: 01 Cover"
+  },
+  {
+   "src": "media/graphics/Teams_02_SWAT.jpg",
+   "thumb": "media/thumbs/g_Teams_02_SWAT.jpg",
+   "alt": "LPD recruitment graphic: 02 SWAT"
+  },
+  {
+   "src": "media/graphics/Teams_03_Marine_Patrol.jpg",
+   "thumb": "media/thumbs/g_Teams_03_Marine_Patrol.jpg",
+   "alt": "LPD recruitment graphic: 03 Marine Patrol"
+  },
+  {
+   "src": "media/graphics/Teams_04_Dive_Team.jpg",
+   "thumb": "media/thumbs/g_Teams_04_Dive_Team.jpg",
+   "alt": "LPD recruitment graphic: 04 Dive Team"
+  },
+  {
+   "src": "media/graphics/Teams_05_Apply.jpg",
+   "thumb": "media/thumbs/g_Teams_05_Apply.jpg",
+   "alt": "LPD recruitment graphic: 05 Apply"
+  }
+ ]
+}
