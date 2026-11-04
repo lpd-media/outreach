@@ -134,10 +134,7 @@ a{color:inherit}
 .stage{position:absolute;inset:0;background:#000}
 .stage .ly{position:absolute;inset:0;opacity:0;transition:opacity .5s linear}
 .stage .ly.on{opacity:1}
-/* K-9 (R5): the whole handler/dog/decoy action in its own feathered window, the caption on an eased floor below it, never on the dog */
-.stage .ly.floor{background:radial-gradient(90% 70% at 50% 30%,#141c62,#060a33)}
-.stage .ly.floor video,.stage .ly.floor img{position:absolute;left:50%;top:0;width:auto;height:min(60%,calc(100% - 420px));aspect-ratio:4/3;transform:translateX(-50%);
- -webkit-mask-image:radial-gradient(closest-side,#000 78%,transparent);mask-image:radial-gradient(closest-side,#000 78%,transparent);-webkit-mask-size:118% 118%;mask-size:118% 118%;-webkit-mask-position:center;mask-position:center}
+/* Hotfix 11.04: every team card is full-bleed cover footage, no masked window (Andre) */
 .stage img,.stage video{width:100%;height:100%;object-fit:cover;display:block}
 .stage::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(6,10,51,.55) 0%,rgba(6,10,51,0) 22%,rgba(6,10,51,0) 42%,rgba(6,10,51,.78) 72%,rgba(6,10,51,.96) 100%)}
 .tc{position:relative;display:flex;flex-direction:column;align-items:center;gap:8px;text-align:center}
@@ -378,7 +375,7 @@ input,textarea,select{border:0;background:rgba(255,255,255,.07);min-height:48px;
 #sPay .bgp{opacity:.12}
 /* The magazine uses generous, unboxed copy and images that ease into navy. */
 .mbar{background:radial-gradient(ellipse at 50% 0%,#0D1458,var(--deep));box-shadow:none;height:96px}
-.dock{background:none;border:0;box-shadow:none}.scroller{bottom:110px;-webkit-mask-image:linear-gradient(to bottom,#000 calc(100% - 80px),transparent 100%);mask-image:linear-gradient(to bottom,#000 calc(100% - 80px),transparent 100%)}.sec{min-height:calc(100vh - 110px);padding-bottom:120px}#sTeams{padding-bottom:120px}#sHero{padding-bottom:60px}.mbar #mNext{justify-self:end}.mscroll{top:96px;scroll-padding-top:0;padding-top:0}
+.dock{background:#0A0F45;border:0;box-shadow:none}.sec{padding-bottom:230px}#sTeams{padding-bottom:230px}#sHero{padding-bottom:170px}/* hotfix 11.04: footage runs under the dock, edge to edge; #join::after eases it to navy */.mbar #mNext{justify-self:end}.mscroll{top:96px;scroll-padding-top:0;padding-top:0}
 .mchapter{position:relative;scroll-margin-top:96px}.mfig{height:46vh;background:var(--deep)}.mchapter:has(.pay-feature) .mfig{height:32vh}.mfig.cover{height:49vh}
 .mfig::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,var(--deep),transparent 12%,transparent 76%,var(--deep));pointer-events:none}
 .mfig img{transform:scale(1.07)}.mfig.in img{transform:scale(1.01)}
@@ -641,17 +638,17 @@ $$("[data-mag]").forEach(b=>b.addEventListener("click",()=>openMag(b.dataset.mag
 /* Teams: full-screen story. Only the active team's video plays, and only while the section is on screen. */
 const TEAMS=[
  {n:"SWAT",l:"Train until it\u2019s automatic.",c:"team_swat",p:"PL449",tag:"Special unit \u00b7 Training"},
- {n:"K-9",l:"Your partner has four legs.",c:"team_k9",p:"PL681",floor:1,tag:"Special unit \u00b7 Training"},
+ {n:"K-9",l:"Your partner has four legs.",c:"team_k9",p:"PL681",tag:"Special unit \u00b7 Training"},
  {n:"Firearms",l:"Qualify. Then do it again.",c:"team_range",p:"PL545",tag:"Training"},
  {n:"Driver Training",l:"Control at speed.",c:"team_driver",p:"PL617",tag:"Training"},
  {n:"Marine Patrol",l:"Lake Erie is part of the beat.",c:"team_marine",p:"PL671",tag:"Special unit"},
  {n:"Dive Team",l:"Work below the surface.",p:"PL533",tag:"Special unit"},
  {n:"Drones (DFR)",l:"Eyes in the air for officers on the ground.",p:"PL067",tag:"Technology"},
- {n:"Night Shift",l:"When the city sleeps, you work.",c:"team_night",p:"PL640",tag:"Patrol"},
+ {n:"Night Shift",l:"When the city sleeps, you work.",c:"team_night",p:"PL640",tag:"Patrol",fx:"scale(1.2)"},
  {n:"Your turn.",l:"Up to $96,314 top-out pay",p:"PL519",tag:"Now hiring",last:1}];
 const stage=$("#stage");
-const LY=TEAMS.map(t=>{const c=clipBy(t.c),p=photoBy(t.p),d=document.createElement("div");d.className="ly"+(t.floor?" floor":"");
-  d.innerHTML=c&&!RM?`<video style="object-position:center ${t.y||'center'}" muted loop playsinline preload="none" poster="${esc(c.poster)}" data-src="${esc(c.src)}"></video>`:`<img class="kb" src="${esc(p?p.src:"")}" alt="">`;stage.appendChild(d);return d});
+const LY=TEAMS.map(t=>{const c=clipBy(t.c),p=photoBy(t.p),d=document.createElement("div");d.className="ly";
+  d.innerHTML=c&&!RM?`<video style="object-position:center ${t.y||'center'}${t.fx?`;transform:${t.fx};transform-origin:50% 100%`:''}" muted loop playsinline preload="none" poster="${esc(c.poster)}" data-src="${esc(c.src)}"></video>`:`<img class="kb" src="${esc(p?p.src:"")}" alt="">`;stage.appendChild(d);return d});
 $("#dots").innerHTML=TEAMS.map(()=>"<i></i>").join("");
 let di=-1,deckOn=false;
 function deckSet(i){i=(i+TEAMS.length)%TEAMS.length;const t=TEAMS[i];
