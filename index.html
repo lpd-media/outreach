@@ -777,6 +777,16 @@ document.addEventListener("visibilitychange",()=>{
  const r=$("#jScroll").getBoundingClientRect(),hero=$("#sHero").getBoundingClientRect(),teams=$("#sTeams").getBoundingClientRect();
  if(hero.bottom>r.top+hero.height*.35)jReel.start();if(teams.top<r.bottom-teams.height*.5&&teams.bottom>r.top+teams.height*.5)deckPlay()}
 });
-if("serviceWorker" in navigator&&isSecureContext)navigator.serviceWorker.register("sw.js").catch(()=>{});
+/* Auto-update (Andre 11.04): look for a new sw.js every 5 min and on each return to attract; once a new version has installed, reload ONCE
+   when idle on attract (never mid-video, in staff, or with a sheet/slideshow open). Offline: update() fails quietly, cached version keeps playing. */
+if("serviceWorker" in navigator&&isSecureContext){
+ const sw=navigator.serviceWorker,had=!!sw.controller;let reg=null,fresh=false,done=false;
+ const upd=()=>{if(reg&&navigator.onLine!==false)reg.update().catch(()=>{})};
+ const apply=()=>{if(!fresh||done||view!=="attract"||document.hidden||!$("#sheet").hidden||!$("#lb").hidden)return;if($("#player video"))return;done=true;location.reload()};
+ sw.addEventListener("controllerchange",()=>{if(had){fresh=true;apply()}});  // had=false is the very first install, not an update
+ sw.register("sw.js").then(r=>{reg=r;r.addEventListener("updatefound",()=>{const n=r.installing;n&&n.addEventListener("statechange",()=>{if(n.state==="installed"&&sw.controller){fresh=true;apply()}})})}).catch(()=>{});
+ setInterval(upd,300000);setInterval(apply,10000);
+ const sa=show;show=function(id){sa(id);if(id==="attract"){upd();apply()}};
+}
 </script>
 </body></html>
